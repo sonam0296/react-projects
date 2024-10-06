@@ -1,1 +1,6 @@
-export const SIDEBAR_CONTENT = ['ToDo App', 'Search Functionality', 'Sorting Visualizer']
+export const SIDEBAR_CONTENT = [
+    { title: 'ToDo App', path: '/todo' },
+    { title: 'Search Functionality', path: '/search' },
+    { title: 'Sorting Visualizer', path: '/sort' }]
+
+export const drawerWidth = 240;
