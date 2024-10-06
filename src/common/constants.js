@@ -1,0 +1,1 @@
+export const SIDEBAR_CONTENT = ['ToDo App', 'Search Functionality', 'Sorting Visualizer']
